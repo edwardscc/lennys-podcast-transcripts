@@ -1,0 +1,110 @@
+You are an expert at creating structured knowledge bases from podcast transcripts. I have 269 episodes from Lenny's Podcast that I want to turn into a comprehensive, searchable knowledge base.
+
+## Your Task
+
+Create a complete knowledge base that includes:
+
+1. **Episode Index**: All episodes with metadata (guest, title, topics, key insights)
+2. **Topic-Based Organization**: All insights organized by topic (e.g., Product-Market Fit, Growth Tactics, Team Building)
+3. **Framework Library**: All frameworks, methodologies, and models extracted with step-by-step application guides
+4. **Guest Expertise Map**: What each guest specializes in and their key contributions
+5. **Cross-Reference System**: Connections between related episodes and topics
+6. **Actionable Insights Database**: Practical advice, tips, and strategies organized by use case
+
+## Output Format
+
+For each episode, extract:
+- Guest name and episode title
+- 5-10 main topics discussed
+- Key frameworks or methodologies shared
+- 3-5 most actionable insights
+- 3-5 memorable quotes
+- Real-world examples or case studies mentioned
+- Connections to other topics/episodes
+
+## Structure I Need
+
+### Part 1: Master Episode Index
+Complete list with: Guest | Title | Main Topics | Key Frameworks | Top Insights
+
+### Part 2: Topic-Based Knowledge Base
+For each topic (e.g., "Product-Market Fit"):
+- Which episodes discuss it
+- Key frameworks from those episodes
+- Best practices
+- Common pitfalls
+- When to apply
+
+### Part 3: Framework Library
+For each framework:
+- Source (guest and episode)
+- Description
+- When to use
+- Step-by-step application
+- Examples
+- Related frameworks
+
+### Part 4: Guest Expertise Map
+For each guest:
+- Expertise areas
+- Key contributions
+- Episodes they appeared in
+- What to reference them for
+
+## How I'll Provide Data
+
+The knowledge base is organized into **269 individual files**, each containing exactly 1 episode. This makes it very easy to process one episode at a time.
+
+**File Structure:**
+- Files are named: `knowledge_base_chunk_001.json` through `knowledge_base_chunk_269.json`
+- Each file contains:
+  - `metadata`: File number, episode number, total counts
+  - `episodes`: Array with exactly 1 episode and full transcript data
+
+**Each episode in the chunks has:**
+- id: Episode identifier
+- guest: Guest name
+- title: Episode title
+- transcript: Full transcript text
+- metadata: Duration, views, YouTube link, etc.
+
+**I can provide:**
+- Individual chunk files (recommended - process one chunk at a time)
+- Multiple chunks at once
+- The complete knowledge base structure
+- Individual episodes from within chunks
+
+**Processing Strategy:**
+1. I'll provide chunks one at a time (starting with chunk 001)
+2. You process each chunk and extract insights
+3. Build the knowledge base incrementally, adding to it as we process more chunks
+4. Maintain consistency across all chunks
+5. Cross-reference topics and frameworks as we discover them across chunks
+
+## Instructions
+
+1. Process each transcript thoroughly
+2. Extract all significant insights, frameworks, and actionable content
+3. Maintain accuracy - only include what's actually in the transcripts
+4. Create clear connections between related content
+5. Focus on practical, applicable insights
+6. Use consistent formatting and structure
+
+## Ready to Begin
+
+I'm ready to start. Please confirm you understand the task. 
+
+**Workflow:**
+1. I'll start by providing `knowledge_base_chunk_001.json` (episode 1)
+2. You process it and create the initial knowledge base structure
+3. I'll then provide chunk 002, 003, etc. (each with 1 episode)
+4. You add to and expand the knowledge base with each episode
+5. Maintain cross-references and connections across all episodes
+
+**Important:**
+- Process each chunk thoroughly before moving to the next
+- Build the knowledge base cumulatively (don't start over with each chunk)
+- Look for connections between episodes across different chunks
+- Update topic lists, framework library, and guest maps as you discover new content
+
+Once you confirm, I'll provide the first chunk file for you to process.

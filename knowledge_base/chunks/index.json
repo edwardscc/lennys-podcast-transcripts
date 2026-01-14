@@ -1,0 +1,2969 @@
+{
+  "metadata": {
+    "total_episodes": 269,
+    "episodes_per_file": 1,
+    "total_files": 269,
+    "description": "Index of all knowledge base chunk files"
+  },
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "filename": "knowledge_base_chunk_001.json",
+      "episode_range": {
+        "start": 1,
+        "end": 1
+      },
+      "episodes_count": 1,
+      "first_episode": "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi",
+      "last_episode": "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi"
+    },
+    {
+      "chunk_number": 2,
+      "filename": "knowledge_base_chunk_002.json",
+      "episode_range": {
+        "start": 2,
+        "end": 2
+      },
+      "episodes_count": 1,
+      "first_episode": "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)",
+      "last_episode": "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)"
+    },
+    {
+      "chunk_number": 3,
+      "filename": "knowledge_base_chunk_003.json",
+      "episode_range": {
+        "start": 3,
+        "end": 3
+      },
+      "episodes_count": 1,
+      "first_episode": "When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)",
+      "last_episode": "When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)"
+    },
+    {
+      "chunk_number": 4,
+      "filename": "knowledge_base_chunk_004.json",
+      "episode_range": {
+        "start": 4,
+        "end": 4
+      },
+      "episodes_count": 1,
+      "first_episode": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
+      "last_episode": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)"
+    },
+    {
+      "chunk_number": 5,
+      "filename": "knowledge_base_chunk_005.json",
+      "episode_range": {
+        "start": 5,
+        "end": 5
+      },
+      "episodes_count": 1,
+      "first_episode": "Untitled",
+      "last_episode": "Untitled"
+    },
+    {
+      "chunk_number": 6,
+      "filename": "knowledge_base_chunk_006.json",
+      "episode_range": {
+        "start": 6,
+        "end": 6
+      },
+      "episodes_count": 1,
+      "first_episode": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)",
+      "last_episode": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)"
+    },
+    {
+      "chunk_number": 7,
+      "filename": "knowledge_base_chunk_007.json",
+      "episode_range": {
+        "start": 7,
+        "end": 7
+      },
+      "episodes_count": 1,
+      "first_episode": "An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)",
+      "last_episode": "An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)"
+    },
+    {
+      "chunk_number": 8,
+      "filename": "knowledge_base_chunk_008.json",
+      "episode_range": {
+        "start": 8,
+        "end": 8
+      },
+      "episodes_count": 1,
+      "first_episode": "Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske",
+      "last_episode": "Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske"
+    },
+    {
+      "chunk_number": 9,
+      "filename": "knowledge_base_chunk_009.json",
+      "episode_range": {
+        "start": 9,
+        "end": 9
+      },
+      "episodes_count": 1,
+      "first_episode": "How to drive word of mouth | Nilan Peiris (CPO of Wise)",
+      "last_episode": "How to drive word of mouth | Nilan Peiris (CPO of Wise)"
+    },
+    {
+      "chunk_number": 10,
+      "filename": "knowledge_base_chunk_010.json",
+      "episode_range": {
+        "start": 10,
+        "end": 10
+      },
+      "episodes_count": 1,
+      "first_episode": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)",
+      "last_episode": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)"
+    },
+    {
+      "chunk_number": 11,
+      "filename": "knowledge_base_chunk_011.json",
+      "episode_range": {
+        "start": 11,
+        "end": 11
+      },
+      "episodes_count": 1,
+      "first_episode": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)",
+      "last_episode": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)"
+    },
+    {
+      "chunk_number": 12,
+      "filename": "knowledge_base_chunk_012.json",
+      "episode_range": {
+        "start": 12,
+        "end": 12
+      },
+      "episodes_count": 1,
+      "first_episode": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson",
+      "last_episode": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson"
+    },
+    {
+      "chunk_number": 13,
+      "filename": "knowledge_base_chunk_013.json",
+      "episode_range": {
+        "start": 13,
+        "end": 13
+      },
+      "episodes_count": 1,
+      "first_episode": "When enough is enough | Andy Johns (ex-FB, Twitter, Quora)",
+      "last_episode": "When enough is enough | Andy Johns (ex-FB, Twitter, Quora)"
+    },
+    {
+      "chunk_number": 14,
+      "filename": "knowledge_base_chunk_014.json",
+      "episode_range": {
+        "start": 14,
+        "end": 14
+      },
+      "episodes_count": 1,
+      "first_episode": "The power of strategic narrative | Andy Raskin",
+      "last_episode": "The power of strategic narrative | Andy Raskin"
+    },
+    {
+      "chunk_number": 15,
+      "filename": "knowledge_base_chunk_015.json",
+      "episode_range": {
+        "start": 15,
+        "end": 15
+      },
+      "episodes_count": 1,
+      "first_episode": "Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta",
+      "last_episode": "Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta"
+    },
+    {
+      "chunk_number": 16,
+      "filename": "knowledge_base_chunk_016.json",
+      "episode_range": {
+        "start": 16,
+        "end": 16
+      },
+      "episodes_count": 1,
+      "first_episode": "This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)",
+      "last_episode": "This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)"
+    },
+    {
+      "chunk_number": 17,
+      "filename": "knowledge_base_chunk_017.json",
+      "episode_range": {
+        "start": 17,
+        "end": 17
+      },
+      "episodes_count": 1,
+      "first_episode": "Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)",
+      "last_episode": "Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)"
+    },
+    {
+      "chunk_number": 18,
+      "filename": "knowledge_base_chunk_018.json",
+      "episode_range": {
+        "start": 18,
+        "end": 18
+      },
+      "episodes_count": 1,
+      "first_episode": "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)",
+      "last_episode": "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)"
+    },
+    {
+      "chunk_number": 19,
+      "filename": "knowledge_base_chunk_019.json",
+      "episode_range": {
+        "start": 19,
+        "end": 19
+      },
+      "episodes_count": 1,
+      "first_episode": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)",
+      "last_episode": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)"
+    },
+    {
+      "chunk_number": 20,
+      "filename": "knowledge_base_chunk_020.json",
+      "episode_range": {
+        "start": 20,
+        "end": 20
+      },
+      "episodes_count": 1,
+      "first_episode": "A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)",
+      "last_episode": "A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)"
+    },
+    {
+      "chunk_number": 21,
+      "filename": "knowledge_base_chunk_021.json",
+      "episode_range": {
+        "start": 21,
+        "end": 21
+      },
+      "episodes_count": 1,
+      "first_episode": "How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)",
+      "last_episode": "How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)"
+    },
+    {
+      "chunk_number": 22,
+      "filename": "knowledge_base_chunk_022.json",
+      "episode_range": {
+        "start": 22,
+        "end": 22
+      },
+      "episodes_count": 1,
+      "first_episode": "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)",
+      "last_episode": "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)"
+    },
+    {
+      "chunk_number": 23,
+      "filename": "knowledge_base_chunk_023.json",
+      "episode_range": {
+        "start": 23,
+        "end": 23
+      },
+      "episodes_count": 1,
+      "first_episode": "How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma",
+      "last_episode": "How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma"
+    },
+    {
+      "chunk_number": 24,
+      "filename": "knowledge_base_chunk_024.json",
+      "episode_range": {
+        "start": 24,
+        "end": 24
+      },
+      "episodes_count": 1,
+      "first_episode": "The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)",
+      "last_episode": "The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)"
+    },
+    {
+      "chunk_number": 25,
+      "filename": "knowledge_base_chunk_025.json",
+      "episode_range": {
+        "start": 25,
+        "end": 25
+      },
+      "episodes_count": 1,
+      "first_episode": "Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola",
+      "last_episode": "Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola"
+    },
+    {
+      "chunk_number": 26,
+      "filename": "knowledge_base_chunk_026.json",
+      "episode_range": {
+        "start": 26,
+        "end": 26
+      },
+      "episodes_count": 1,
+      "first_episode": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)",
+      "last_episode": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)"
+    },
+    {
+      "chunk_number": 27,
+      "filename": "knowledge_base_chunk_027.json",
+      "episode_range": {
+        "start": 27,
+        "end": 27
+      },
+      "episodes_count": 1,
+      "first_episode": "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)",
+      "last_episode": "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)"
+    },
+    {
+      "chunk_number": 28,
+      "filename": "knowledge_base_chunk_028.json",
+      "episode_range": {
+        "start": 28,
+        "end": 28
+      },
+      "episodes_count": 1,
+      "first_episode": "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)",
+      "last_episode": "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
+    },
+    {
+      "chunk_number": 29,
+      "filename": "knowledge_base_chunk_029.json",
+      "episode_range": {
+        "start": 29,
+        "end": 29
+      },
+      "episodes_count": 1,
+      "first_episode": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)",
+      "last_episode": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)"
+    },
+    {
+      "chunk_number": 30,
+      "filename": "knowledge_base_chunk_030.json",
+      "episode_range": {
+        "start": 30,
+        "end": 30
+      },
+      "episodes_count": 1,
+      "first_episode": "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)",
+      "last_episode": "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)"
+    },
+    {
+      "chunk_number": 31,
+      "filename": "knowledge_base_chunk_031.json",
+      "episode_range": {
+        "start": 31,
+        "end": 31
+      },
+      "episodes_count": 1,
+      "first_episode": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)",
+      "last_episode": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)"
+    },
+    {
+      "chunk_number": 32,
+      "filename": "knowledge_base_chunk_032.json",
+      "episode_range": {
+        "start": 32,
+        "end": 32
+      },
+      "episodes_count": 1,
+      "first_episode": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley",
+      "last_episode": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley"
+    },
+    {
+      "chunk_number": 33,
+      "filename": "knowledge_base_chunk_033.json",
+      "episode_range": {
+        "start": 33,
+        "end": 33
+      },
+      "episodes_count": 1,
+      "first_episode": "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \\\"Job Moves”)",
+      "last_episode": "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \\\"Job Moves”)"
+    },
+    {
+      "chunk_number": 34,
+      "filename": "knowledge_base_chunk_034.json",
+      "episode_range": {
+        "start": 34,
+        "end": 34
+      },
+      "episodes_count": 1,
+      "first_episode": "Making Meta | Andrew ‘Boz’ Bosworth (CTO)",
+      "last_episode": "Making Meta | Andrew ‘Boz’ Bosworth (CTO)"
+    },
+    {
+      "chunk_number": 35,
+      "filename": "knowledge_base_chunk_035.json",
+      "episode_range": {
+        "start": 35,
+        "end": 35
+      },
+      "episodes_count": 1,
+      "first_episode": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+      "last_episode": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)"
+    },
+    {
+      "chunk_number": 36,
+      "filename": "knowledge_base_chunk_036.json",
+      "episode_range": {
+        "start": 36,
+        "end": 36
+      },
+      "episodes_count": 1,
+      "first_episode": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody",
+      "last_episode": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody"
+    },
+    {
+      "chunk_number": 37,
+      "filename": "knowledge_base_chunk_037.json",
+      "episode_range": {
+        "start": 37,
+        "end": 37
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside the expert network training every frontier AI model | Garrett Lord",
+      "last_episode": "Inside the expert network training every frontier AI model | Garrett Lord"
+    },
+    {
+      "chunk_number": 38,
+      "filename": "knowledge_base_chunk_038.json",
+      "episode_range": {
+        "start": 38,
+        "end": 38
+      },
+      "episodes_count": 1,
+      "first_episode": "Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour",
+      "last_episode": "Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour"
+    },
+    {
+      "chunk_number": 39,
+      "filename": "knowledge_base_chunk_039.json",
+      "episode_range": {
+        "start": 39,
+        "end": 39
+      },
+      "episodes_count": 1,
+      "first_episode": "Brian Chesky’s new playbook",
+      "last_episode": "Brian Chesky’s new playbook"
+    },
+    {
+      "chunk_number": 40,
+      "filename": "knowledge_base_chunk_040.json",
+      "episode_range": {
+        "start": 40,
+        "end": 40
+      },
+      "episodes_count": 1,
+      "first_episode": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+      "last_episode": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)"
+    },
+    {
+      "chunk_number": 41,
+      "filename": "knowledge_base_chunk_041.json",
+      "episode_range": {
+        "start": 41,
+        "end": 41
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams",
+      "last_episode": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams"
+    },
+    {
+      "chunk_number": 42,
+      "filename": "knowledge_base_chunk_042.json",
+      "episode_range": {
+        "start": 42,
+        "end": 42
+      },
+      "episodes_count": 1,
+      "first_episode": "The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)",
+      "last_episode": "The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)"
+    },
+    {
+      "chunk_number": 43,
+      "filename": "knowledge_base_chunk_043.json",
+      "episode_range": {
+        "start": 43,
+        "end": 43
+      },
+      "episodes_count": 1,
+      "first_episode": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst",
+      "last_episode": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst"
+    },
+    {
+      "chunk_number": 44,
+      "filename": "knowledge_base_chunk_044.json",
+      "episode_range": {
+        "start": 44,
+        "end": 44
+      },
+      "episodes_count": 1,
+      "first_episode": "How Notion leveraged community to build a $10B business | Camille Ricketts",
+      "last_episode": "How Notion leveraged community to build a $10B business | Camille Ricketts"
+    },
+    {
+      "chunk_number": 45,
+      "filename": "knowledge_base_chunk_045.json",
+      "episode_range": {
+        "start": 45,
+        "end": 45
+      },
+      "episodes_count": 1,
+      "first_episode": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)",
+      "last_episode": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)"
+    },
+    {
+      "chunk_number": 46,
+      "filename": "knowledge_base_chunk_046.json",
+      "episode_range": {
+        "start": 46,
+        "end": 46
+      },
+      "episodes_count": 1,
+      "first_episode": "How to build deeper, more robust relationships | Carole Robin (Stanford professor, “Touchy Feely”)",
+      "last_episode": "How to build deeper, more robust relationships | Carole Robin (Stanford professor, “Touchy Feely”)"
+    },
+    {
+      "chunk_number": 47,
+      "filename": "knowledge_base_chunk_047.json",
+      "episode_range": {
+        "start": 47,
+        "end": 47
+      },
+      "episodes_count": 1,
+      "first_episode": "Why most product managers are unprepared for the demands of a real startup | Casey Winters",
+      "last_episode": "Why most product managers are unprepared for the demands of a real startup | Casey Winters"
+    },
+    {
+      "chunk_number": 48,
+      "filename": "knowledge_base_chunk_048.json",
+      "episode_range": {
+        "start": 48,
+        "end": 48
+      },
+      "episodes_count": 1,
+      "first_episode": "An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)",
+      "last_episode": "An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)"
+    },
+    {
+      "chunk_number": 49,
+      "filename": "knowledge_base_chunk_049.json",
+      "episode_range": {
+        "start": 49,
+        "end": 49
+      },
+      "episodes_count": 1,
+      "first_episode": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)",
+      "last_episode": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)"
+    },
+    {
+      "chunk_number": 50,
+      "filename": "knowledge_base_chunk_050.json",
+      "episode_range": {
+        "start": 50,
+        "end": 50
+      },
+      "episodes_count": 1,
+      "first_episode": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen",
+      "last_episode": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen"
+    },
+    {
+      "chunk_number": 51,
+      "filename": "knowledge_base_chunk_051.json",
+      "episode_range": {
+        "start": 51,
+        "end": 51
+      },
+      "episodes_count": 1,
+      "first_episode": "Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)",
+      "last_episode": "Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)"
+    },
+    {
+      "chunk_number": 52,
+      "filename": "knowledge_base_chunk_052.json",
+      "episode_range": {
+        "start": 52,
+        "end": 52
+      },
+      "episodes_count": 1,
+      "first_episode": "The essence of product management | Christian Idiodi (SVPG)",
+      "last_episode": "The essence of product management | Christian Idiodi (SVPG)"
+    },
+    {
+      "chunk_number": 53,
+      "filename": "knowledge_base_chunk_053.json",
+      "episode_range": {
+        "start": 53,
+        "end": 53
+      },
+      "episodes_count": 1,
+      "first_episode": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+      "last_episode": "The ultimate guide to OKRs | Christina Wodtke (Stanford)"
+    },
+    {
+      "chunk_number": 54,
+      "filename": "knowledge_base_chunk_054.json",
+      "episode_range": {
+        "start": 54,
+        "end": 54
+      },
+      "episodes_count": 1,
+      "first_episode": "Understanding the role of product ops | Christine Itwaru (Pendo)",
+      "last_episode": "Understanding the role of product ops | Christine Itwaru (Pendo)"
+    },
+    {
+      "chunk_number": 55,
+      "filename": "knowledge_base_chunk_055.json",
+      "episode_range": {
+        "start": 55,
+        "end": 55
+      },
+      "episodes_count": 1,
+      "first_episode": "How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)",
+      "last_episode": "How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)"
+    },
+    {
+      "chunk_number": 56,
+      "filename": "knowledge_base_chunk_056.json",
+      "episode_range": {
+        "start": 56,
+        "end": 56
+      },
+      "episodes_count": 1,
+      "first_episode": "Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller",
+      "last_episode": "Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller"
+    },
+    {
+      "chunk_number": 57,
+      "filename": "knowledge_base_chunk_057.json",
+      "episode_range": {
+        "start": 57,
+        "end": 57
+      },
+      "episodes_count": 1,
+      "first_episode": "An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)",
+      "last_episode": "An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)"
+    },
+    {
+      "chunk_number": 58,
+      "filename": "knowledge_base_chunk_058.json",
+      "episode_range": {
+        "start": 58,
+        "end": 58
+      },
+      "episodes_count": 1,
+      "first_episode": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)",
+      "last_episode": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)"
+    },
+    {
+      "chunk_number": 59,
+      "filename": "knowledge_base_chunk_059.json",
+      "episode_range": {
+        "start": 59,
+        "end": 59
+      },
+      "episodes_count": 1,
+      "first_episode": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+      "last_episode": "The ultimate guide to OKRs | Christina Wodtke (Stanford)"
+    },
+    {
+      "chunk_number": 60,
+      "filename": "knowledge_base_chunk_060.json",
+      "episode_range": {
+        "start": 60,
+        "end": 60
+      },
+      "episodes_count": 1,
+      "first_episode": "Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)",
+      "last_episode": "Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)"
+    },
+    {
+      "chunk_number": 61,
+      "filename": "knowledge_base_chunk_061.json",
+      "episode_range": {
+        "start": 61,
+        "end": 61
+      },
+      "episodes_count": 1,
+      "first_episode": "Developing a growth model + marketplace growth strategy | Dan Hockenmaier",
+      "last_episode": "Developing a growth model + marketplace growth strategy | Dan Hockenmaier"
+    },
+    {
+      "chunk_number": 62,
+      "filename": "knowledge_base_chunk_062.json",
+      "episode_range": {
+        "start": 62,
+        "end": 62
+      },
+      "episodes_count": 1,
+      "first_episode": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+      "last_episode": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)"
+    },
+    {
+      "chunk_number": 63,
+      "filename": "knowledge_base_chunk_063.json",
+      "episode_range": {
+        "start": 63,
+        "end": 63
+      },
+      "episodes_count": 1,
+      "first_episode": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+      "last_episode": "Building a culture of excellence | David Singleton (CTO of Stripe)"
+    },
+    {
+      "chunk_number": 64,
+      "filename": "knowledge_base_chunk_064.json",
+      "episode_range": {
+        "start": 64,
+        "end": 64
+      },
+      "episodes_count": 1,
+      "first_episode": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+      "last_episode": "Building a culture of excellence | David Singleton (CTO of Stripe)"
+    },
+    {
+      "chunk_number": 65,
+      "filename": "knowledge_base_chunk_065.json",
+      "episode_range": {
+        "start": 65,
+        "end": 65
+      },
+      "episodes_count": 1,
+      "first_episode": "Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu",
+      "last_episode": "Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu"
+    },
+    {
+      "chunk_number": 66,
+      "filename": "knowledge_base_chunk_066.json",
+      "episode_range": {
+        "start": 66,
+        "end": 66
+      },
+      "episodes_count": 1,
+      "first_episode": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
+      "last_episode": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna"
+    },
+    {
+      "chunk_number": 67,
+      "filename": "knowledge_base_chunk_067.json",
+      "episode_range": {
+        "start": 67,
+        "end": 67
+      },
+      "episodes_count": 1,
+      "first_episode": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+      "last_episode": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)"
+    },
+    {
+      "chunk_number": 68,
+      "filename": "knowledge_base_chunk_068.json",
+      "episode_range": {
+        "start": 68,
+        "end": 68
+      },
+      "episodes_count": 1,
+      "first_episode": "Untitled",
+      "last_episode": "Untitled"
+    },
+    {
+      "chunk_number": 69,
+      "filename": "knowledge_base_chunk_069.json",
+      "episode_range": {
+        "start": 69,
+        "end": 69
+      },
+      "episodes_count": 1,
+      "first_episode": "How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw",
+      "last_episode": "How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw"
+    },
+    {
+      "chunk_number": 70,
+      "filename": "knowledge_base_chunk_070.json",
+      "episode_range": {
+        "start": 70,
+        "end": 70
+      },
+      "episodes_count": 1,
+      "first_episode": "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)",
+      "last_episode": "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)"
+    },
+    {
+      "chunk_number": 71,
+      "filename": "knowledge_base_chunk_071.json",
+      "episode_range": {
+        "start": 71,
+        "end": 71
+      },
+      "episodes_count": 1,
+      "first_episode": "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field",
+      "last_episode": "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field"
+    },
+    {
+      "chunk_number": 72,
+      "filename": "knowledge_base_chunk_072.json",
+      "episode_range": {
+        "start": 72,
+        "end": 72
+      },
+      "episodes_count": 1,
+      "first_episode": "Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)",
+      "last_episode": "Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)"
+    },
+    {
+      "chunk_number": 73,
+      "filename": "knowledge_base_chunk_073.json",
+      "episode_range": {
+        "start": 73,
+        "end": 73
+      },
+      "episodes_count": 1,
+      "first_episode": "The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen",
+      "last_episode": "The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen"
+    },
+    {
+      "chunk_number": 74,
+      "filename": "knowledge_base_chunk_074.json",
+      "episode_range": {
+        "start": 74,
+        "end": 74
+      },
+      "episodes_count": 1,
+      "first_episode": "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)",
+      "last_episode": "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)"
+    },
+    {
+      "chunk_number": 75,
+      "filename": "knowledge_base_chunk_075.json",
+      "episode_range": {
+        "start": 75,
+        "end": 75
+      },
+      "episodes_count": 1,
+      "first_episode": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+      "last_episode": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)"
+    },
+    {
+      "chunk_number": 76,
+      "filename": "knowledge_base_chunk_076.json",
+      "episode_range": {
+        "start": 76,
+        "end": 76
+      },
+      "episodes_count": 1,
+      "first_episode": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+      "last_episode": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)"
+    },
+    {
+      "chunk_number": 77,
+      "filename": "knowledge_base_chunk_077.json",
+      "episode_range": {
+        "start": 77,
+        "end": 77
+      },
+      "episodes_count": 1,
+      "first_episode": "Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)",
+      "last_episode": "Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)"
+    },
+    {
+      "chunk_number": 78,
+      "filename": "knowledge_base_chunk_078.json",
+      "episode_range": {
+        "start": 78,
+        "end": 78
+      },
+      "episodes_count": 1,
+      "first_episode": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)",
+      "last_episode": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)"
+    },
+    {
+      "chunk_number": 79,
+      "filename": "knowledge_base_chunk_079.json",
+      "episode_range": {
+        "start": 79,
+        "end": 79
+      },
+      "episodes_count": 1,
+      "first_episode": "The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)",
+      "last_episode": "The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)"
+    },
+    {
+      "chunk_number": 80,
+      "filename": "knowledge_base_chunk_080.json",
+      "episode_range": {
+        "start": 80,
+        "end": 80
+      },
+      "episodes_count": 1,
+      "first_episode": "How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)",
+      "last_episode": "How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)"
+    },
+    {
+      "chunk_number": 81,
+      "filename": "knowledge_base_chunk_081.json",
+      "episode_range": {
+        "start": 81,
+        "end": 81
+      },
+      "episodes_count": 1,
+      "first_episode": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+      "last_episode": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)"
+    },
+    {
+      "chunk_number": 82,
+      "filename": "knowledge_base_chunk_082.json",
+      "episode_range": {
+        "start": 82,
+        "end": 82
+      },
+      "episodes_count": 1,
+      "first_episode": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+      "last_episode": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)"
+    },
+    {
+      "chunk_number": 83,
+      "filename": "knowledge_base_chunk_083.json",
+      "episode_range": {
+        "start": 83,
+        "end": 83
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons",
+      "last_episode": "Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons"
+    },
+    {
+      "chunk_number": 84,
+      "filename": "knowledge_base_chunk_084.json",
+      "episode_range": {
+        "start": 84,
+        "end": 84
+      },
+      "episodes_count": 1,
+      "first_episode": "Taking control of your career | Ethan Evans (Amazon)",
+      "last_episode": "Taking control of your career | Ethan Evans (Amazon)"
+    },
+    {
+      "chunk_number": 85,
+      "filename": "knowledge_base_chunk_085.json",
+      "episode_range": {
+        "start": 85,
+        "end": 85
+      },
+      "episodes_count": 1,
+      "first_episode": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)",
+      "last_episode": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)"
+    },
+    {
+      "chunk_number": 86,
+      "filename": "knowledge_base_chunk_086.json",
+      "episode_range": {
+        "start": 86,
+        "end": 86
+      },
+      "episodes_count": 1,
+      "first_episode": "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe",
+      "last_episode": "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe"
+    },
+    {
+      "chunk_number": 87,
+      "filename": "knowledge_base_chunk_087.json",
+      "episode_range": {
+        "start": 87,
+        "end": 87
+      },
+      "episodes_count": 1,
+      "first_episode": "Failure",
+      "last_episode": "Failure"
+    },
+    {
+      "chunk_number": 88,
+      "filename": "knowledge_base_chunk_088.json",
+      "episode_range": {
+        "start": 88,
+        "end": 88
+      },
+      "episodes_count": 1,
+      "first_episode": "How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)",
+      "last_episode": "How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)"
+    },
+    {
+      "chunk_number": 89,
+      "filename": "knowledge_base_chunk_089.json",
+      "episode_range": {
+        "start": 89,
+        "end": 89
+      },
+      "episodes_count": 1,
+      "first_episode": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)",
+      "last_episode": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)"
+    },
+    {
+      "chunk_number": 90,
+      "filename": "knowledge_base_chunk_090.json",
+      "episode_range": {
+        "start": 90,
+        "end": 90
+      },
+      "episodes_count": 1,
+      "first_episode": "The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li",
+      "last_episode": "The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li"
+    },
+    {
+      "chunk_number": 91,
+      "filename": "knowledge_base_chunk_091.json",
+      "episode_range": {
+        "start": 91,
+        "end": 91
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside the expert network training every frontier AI model | Garrett Lord",
+      "last_episode": "Inside the expert network training every frontier AI model | Garrett Lord"
+    },
+    {
+      "chunk_number": 92,
+      "filename": "knowledge_base_chunk_092.json",
+      "episode_range": {
+        "start": 92,
+        "end": 92
+      },
+      "episodes_count": 1,
+      "first_episode": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+      "last_episode": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)"
+    },
+    {
+      "chunk_number": 93,
+      "filename": "knowledge_base_chunk_093.json",
+      "episode_range": {
+        "start": 93,
+        "end": 93
+      },
+      "episodes_count": 1,
+      "first_episode": "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles",
+      "last_episode": "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles"
+    },
+    {
+      "chunk_number": 94,
+      "filename": "knowledge_base_chunk_094.json",
+      "episode_range": {
+        "start": 94,
+        "end": 94
+      },
+      "episodes_count": 1,
+      "first_episode": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+      "last_episode": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)"
+    },
+    {
+      "chunk_number": 95,
+      "filename": "knowledge_base_chunk_095.json",
+      "episode_range": {
+        "start": 95,
+        "end": 95
+      },
+      "episodes_count": 1,
+      "first_episode": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+      "last_episode": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)"
+    },
+    {
+      "chunk_number": 96,
+      "filename": "knowledge_base_chunk_096.json",
+      "episode_range": {
+        "start": 96,
+        "end": 96
+      },
+      "episodes_count": 1,
+      "first_episode": "Customer-led growth | Georgiana Laudi (Forget The Funnel)",
+      "last_episode": "Customer-led growth | Georgiana Laudi (Forget The Funnel)"
+    },
+    {
+      "chunk_number": 97,
+      "filename": "knowledge_base_chunk_097.json",
+      "episode_range": {
+        "start": 97,
+        "end": 97
+      },
+      "episodes_count": 1,
+      "first_episode": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley",
+      "last_episode": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley"
+    },
+    {
+      "chunk_number": 98,
+      "filename": "knowledge_base_chunk_098.json",
+      "episode_range": {
+        "start": 98,
+        "end": 98
+      },
+      "episodes_count": 1,
+      "first_episode": "Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf",
+      "last_episode": "Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf"
+    },
+    {
+      "chunk_number": 99,
+      "filename": "knowledge_base_chunk_099.json",
+      "episode_range": {
+        "start": 99,
+        "end": 99
+      },
+      "episodes_count": 1,
+      "first_episode": "What AI means for your product strategy | Paul Adams (CPO of Intercom)",
+      "last_episode": "What AI means for your product strategy | Paul Adams (CPO of Intercom)"
+    },
+    {
+      "chunk_number": 100,
+      "filename": "knowledge_base_chunk_100.json",
+      "episode_range": {
+        "start": 100,
+        "end": 100
+      },
+      "episodes_count": 1,
+      "first_episode": "How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)",
+      "last_episode": "How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)"
+    },
+    {
+      "chunk_number": 101,
+      "filename": "knowledge_base_chunk_101.json",
+      "episode_range": {
+        "start": 101,
+        "end": 101
+      },
+      "episodes_count": 1,
+      "first_episode": "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)",
+      "last_episode": "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)"
+    },
+    {
+      "chunk_number": 102,
+      "filename": "knowledge_base_chunk_102.json",
+      "episode_range": {
+        "start": 102,
+        "end": 102
+      },
+      "episodes_count": 1,
+      "first_episode": "Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)",
+      "last_episode": "Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)"
+    },
+    {
+      "chunk_number": 103,
+      "filename": "knowledge_base_chunk_103.json",
+      "episode_range": {
+        "start": 103,
+        "end": 103
+      },
+      "episodes_count": 1,
+      "first_episode": "The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström",
+      "last_episode": "The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström"
+    },
+    {
+      "chunk_number": 104,
+      "filename": "knowledge_base_chunk_104.json",
+      "episode_range": {
+        "start": 104,
+        "end": 104
+      },
+      "episodes_count": 1,
+      "first_episode": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+      "last_episode": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)"
+    },
+    {
+      "chunk_number": 105,
+      "filename": "knowledge_base_chunk_105.json",
+      "episode_range": {
+        "start": 105,
+        "end": 105
+      },
+      "episodes_count": 1,
+      "first_episode": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst",
+      "last_episode": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst"
+    },
+    {
+      "chunk_number": 106,
+      "filename": "knowledge_base_chunk_106.json",
+      "episode_range": {
+        "start": 106,
+        "end": 106
+      },
+      "episodes_count": 1,
+      "first_episode": "LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)",
+      "last_episode": "LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)"
+    },
+    {
+      "chunk_number": 107,
+      "filename": "knowledge_base_chunk_107.json",
+      "episode_range": {
+        "start": 107,
+        "end": 107
+      },
+      "episodes_count": 1,
+      "first_episode": "The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)",
+      "last_episode": "The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)"
+    },
+    {
+      "chunk_number": 108,
+      "filename": "knowledge_base_chunk_108.json",
+      "episode_range": {
+        "start": 108,
+        "end": 108
+      },
+      "episodes_count": 1,
+      "first_episode": "The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)",
+      "last_episode": "The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)"
+    },
+    {
+      "chunk_number": 109,
+      "filename": "knowledge_base_chunk_109.json",
+      "episode_range": {
+        "start": 109,
+        "end": 109
+      },
+      "episodes_count": 1,
+      "first_episode": "How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)",
+      "last_episode": "How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)"
+    },
+    {
+      "chunk_number": 110,
+      "filename": "knowledge_base_chunk_110.json",
+      "episode_range": {
+        "start": 110,
+        "end": 110
+      },
+      "episodes_count": 1,
+      "first_episode": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)",
+      "last_episode": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)"
+    },
+    {
+      "chunk_number": 111,
+      "filename": "knowledge_base_chunk_111.json",
+      "episode_range": {
+        "start": 111,
+        "end": 111
+      },
+      "episodes_count": 1,
+      "first_episode": "What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)",
+      "last_episode": "What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)"
+    },
+    {
+      "chunk_number": 112,
+      "filename": "knowledge_base_chunk_112.json",
+      "episode_range": {
+        "start": 112,
+        "end": 112
+      },
+      "episodes_count": 1,
+      "first_episode": "The future of AI in software development | Inbal Shani (CPO of GitHub)",
+      "last_episode": "The future of AI in software development | Inbal Shani (CPO of GitHub)"
+    },
+    {
+      "chunk_number": 113,
+      "filename": "knowledge_base_chunk_113.json",
+      "episode_range": {
+        "start": 113,
+        "end": 113
+      },
+      "episodes_count": 1,
+      "first_episode": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson",
+      "last_episode": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson"
+    },
+    {
+      "chunk_number": 114,
+      "filename": "knowledge_base_chunk_114.json",
+      "episode_range": {
+        "start": 114,
+        "end": 114
+      },
+      "episodes_count": 1,
+      "first_episode": "Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)",
+      "last_episode": "Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)"
+    },
+    {
+      "chunk_number": 115,
+      "filename": "knowledge_base_chunk_115.json",
+      "episode_range": {
+        "start": 115,
+        "end": 115
+      },
+      "episodes_count": 1,
+      "first_episode": "Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang",
+      "last_episode": "Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang"
+    },
+    {
+      "chunk_number": 116,
+      "filename": "knowledge_base_chunk_116.json",
+      "episode_range": {
+        "start": 116,
+        "end": 116
+      },
+      "episodes_count": 1,
+      "first_episode": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)",
+      "last_episode": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)"
+    },
+    {
+      "chunk_number": 117,
+      "filename": "knowledge_base_chunk_117.json",
+      "episode_range": {
+        "start": 117,
+        "end": 117
+      },
+      "episodes_count": 1,
+      "first_episode": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
+      "last_episode": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)"
+    },
+    {
+      "chunk_number": 118,
+      "filename": "knowledge_base_chunk_118.json",
+      "episode_range": {
+        "start": 118,
+        "end": 118
+      },
+      "episodes_count": 1,
+      "first_episode": "Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)",
+      "last_episode": "Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)"
+    },
+    {
+      "chunk_number": 119,
+      "filename": "knowledge_base_chunk_119.json",
+      "episode_range": {
+        "start": 119,
+        "end": 119
+      },
+      "episodes_count": 1,
+      "first_episode": "Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)",
+      "last_episode": "Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)"
+    },
+    {
+      "chunk_number": 120,
+      "filename": "knowledge_base_chunk_120.json",
+      "episode_range": {
+        "start": 120,
+        "end": 120
+      },
+      "episodes_count": 1,
+      "first_episode": "We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)",
+      "last_episode": "We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)"
+    },
+    {
+      "chunk_number": 121,
+      "filename": "knowledge_base_chunk_121.json",
+      "episode_range": {
+        "start": 121,
+        "end": 121
+      },
+      "episodes_count": 1,
+      "first_episode": "How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine)",
+      "last_episode": "How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine)"
+    },
+    {
+      "chunk_number": 122,
+      "filename": "knowledge_base_chunk_122.json",
+      "episode_range": {
+        "start": 122,
+        "end": 122
+      },
+      "episodes_count": 1,
+      "first_episode": "How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine)",
+      "last_episode": "How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine)"
+    },
+    {
+      "chunk_number": 123,
+      "filename": "knowledge_base_chunk_123.json",
+      "episode_range": {
+        "start": 123,
+        "end": 123
+      },
+      "episodes_count": 1,
+      "first_episode": "We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)",
+      "last_episode": "We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)"
+    },
+    {
+      "chunk_number": 124,
+      "filename": "knowledge_base_chunk_124.json",
+      "episode_range": {
+        "start": 124,
+        "end": 124
+      },
+      "episodes_count": 1,
+      "first_episode": "Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alchemy)",
+      "last_episode": "Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alchemy)"
+    },
+    {
+      "chunk_number": 125,
+      "filename": "knowledge_base_chunk_125.json",
+      "episode_range": {
+        "start": 125,
+        "end": 125
+      },
+      "episodes_count": 1,
+      "first_episode": "What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)",
+      "last_episode": "What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)"
+    },
+    {
+      "chunk_number": 126,
+      "filename": "knowledge_base_chunk_126.json",
+      "episode_range": {
+        "start": 126,
+        "end": 126
+      },
+      "episodes_count": 1,
+      "first_episode": "The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (Stanford)",
+      "last_episode": "The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (Stanford)"
+    },
+    {
+      "chunk_number": 127,
+      "filename": "knowledge_base_chunk_127.json",
+      "episode_range": {
+        "start": 127,
+        "end": 127
+      },
+      "episodes_count": 1,
+      "first_episode": "The ultimate guide to founder-led sales | Jen Abel (co-founder of JJELLYFISH)",
+      "last_episode": "The ultimate guide to founder-led sales | Jen Abel (co-founder of JJELLYFISH)"
+    },
+    {
+      "chunk_number": 128,
+      "filename": "knowledge_base_chunk_128.json",
+      "episode_range": {
+        "start": 128,
+        "end": 128
+      },
+      "episodes_count": 1,
+      "first_episode": "Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)",
+      "last_episode": "Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)"
+    },
+    {
+      "chunk_number": 129,
+      "filename": "knowledge_base_chunk_129.json",
+      "episode_range": {
+        "start": 129,
+        "end": 129
+      },
+      "episodes_count": 1,
+      "first_episode": "How have I been complicit in creating the conditions I say I don’t want? | Jerry Colonna",
+      "last_episode": "How have I been complicit in creating the conditions I say I don’t want? | Jerry Colonna"
+    },
+    {
+      "chunk_number": 130,
+      "filename": "knowledge_base_chunk_130.json",
+      "episode_range": {
+        "start": 130,
+        "end": 130
+      },
+      "episodes_count": 1,
+      "first_episode": "Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)",
+      "last_episode": "Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)"
+    },
+    {
+      "chunk_number": 131,
+      "filename": "knowledge_base_chunk_131.json",
+      "episode_range": {
+        "start": 131,
+        "end": 131
+      },
+      "episodes_count": 1,
+      "first_episode": "How to see like a designer: The hidden power of typography and logos | Jessica Hische",
+      "last_episode": "How to see like a designer: The hidden power of typography and logos | Jessica Hische"
+    },
+    {
+      "chunk_number": 132,
+      "filename": "knowledge_base_chunk_132.json",
+      "episode_range": {
+        "start": 132,
+        "end": 132
+      },
+      "episodes_count": 1,
+      "first_episode": "The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)",
+      "last_episode": "The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)"
+    },
+    {
+      "chunk_number": 133,
+      "filename": "knowledge_base_chunk_133.json",
+      "episode_range": {
+        "start": 133,
+        "end": 133
+      },
+      "episodes_count": 1,
+      "first_episode": "Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang",
+      "last_episode": "Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang"
+    },
+    {
+      "chunk_number": 134,
+      "filename": "knowledge_base_chunk_134.json",
+      "episode_range": {
+        "start": 134,
+        "end": 134
+      },
+      "episodes_count": 1,
+      "first_episode": "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)",
+      "last_episode": "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)"
+    },
+    {
+      "chunk_number": 135,
+      "filename": "knowledge_base_chunk_135.json",
+      "episode_range": {
+        "start": 135,
+        "end": 135
+      },
+      "episodes_count": 1,
+      "first_episode": "What differentiates the highest-performing product teams | John Cutler (The Beautiful Mess)",
+      "last_episode": "What differentiates the highest-performing product teams | John Cutler (The Beautiful Mess)"
+    },
+    {
+      "chunk_number": 136,
+      "filename": "knowledge_base_chunk_136.json",
+      "episode_range": {
+        "start": 136,
+        "end": 136
+      },
+      "episodes_count": 1,
+      "first_episode": "Conscious leadership: Unlocking vision, strategy and purpose | JM Nickels (Uber, Waymo, DoorDash)",
+      "last_episode": "Conscious leadership: Unlocking vision, strategy and purpose | JM Nickels (Uber, Waymo, DoorDash)"
+    },
+    {
+      "chunk_number": 137,
+      "filename": "knowledge_base_chunk_137.json",
+      "episode_range": {
+        "start": 137,
+        "end": 137
+      },
+      "episodes_count": 1,
+      "first_episode": "The crazy story of landing Uber as a client | Jonathan Becker (Thrive Digital)",
+      "last_episode": "The crazy story of landing Uber as a client | Jonathan Becker (Thrive Digital)"
+    },
+    {
+      "chunk_number": 138,
+      "filename": "knowledge_base_chunk_138.json",
+      "episode_range": {
+        "start": 138,
+        "end": 138
+      },
+      "episodes_count": 1,
+      "first_episode": "How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of Enjoy The Work)",
+      "last_episode": "How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of Enjoy The Work)"
+    },
+    {
+      "chunk_number": 139,
+      "filename": "knowledge_base_chunk_139.json",
+      "episode_range": {
+        "start": 139,
+        "end": 139
+      },
+      "episodes_count": 1,
+      "first_episode": "Managing nerves, anxiety, and burnout | Jonny Miller (Nervous Systems Mastery)",
+      "last_episode": "Managing nerves, anxiety, and burnout | Jonny Miller (Nervous Systems Mastery)"
+    },
+    {
+      "chunk_number": 140,
+      "filename": "knowledge_base_chunk_140.json",
+      "episode_range": {
+        "start": 140,
+        "end": 140
+      },
+      "episodes_count": 1,
+      "first_episode": "Competing with giants: An inside look at how The Browser Company builds product | Josh Miller (CEO)",
+      "last_episode": "Competing with giants: An inside look at how The Browser Company builds product | Josh Miller (CEO)"
+    },
+    {
+      "chunk_number": 141,
+      "filename": "knowledge_base_chunk_141.json",
+      "episode_range": {
+        "start": 141,
+        "end": 141
+      },
+      "episodes_count": 1,
+      "first_episode": "The UX Research reckoning is here | Judd Antin (Airbnb, Meta)",
+      "last_episode": "The UX Research reckoning is here | Judd Antin (Airbnb, Meta)"
+    },
+    {
+      "chunk_number": 142,
+      "filename": "knowledge_base_chunk_142.json",
+      "episode_range": {
+        "start": 142,
+        "end": 142
+      },
+      "episodes_count": 1,
+      "first_episode": "Leveraging mentors to uplevel your career | Jules Walter (YouTube, Slack)",
+      "last_episode": "Leveraging mentors to uplevel your career | Jules Walter (YouTube, Slack)"
+    },
+    {
+      "chunk_number": 143,
+      "filename": "knowledge_base_chunk_143.json",
+      "episode_range": {
+        "start": 143,
+        "end": 143
+      },
+      "episodes_count": 1,
+      "first_episode": "M&A, competition, pricing, and investing | Julia Schottenstein (dbt Labs)",
+      "last_episode": "M&A, competition, pricing, and investing | Julia Schottenstein (dbt Labs)"
+    },
+    {
+      "chunk_number": 144,
+      "filename": "knowledge_base_chunk_144.json",
+      "episode_range": {
+        "start": 144,
+        "end": 144
+      },
+      "episodes_count": 1,
+      "first_episode": "From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo",
+      "last_episode": "From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo"
+    },
+    {
+      "chunk_number": 145,
+      "filename": "knowledge_base_chunk_145.json",
+      "episode_range": {
+        "start": 145,
+        "end": 145
+      },
+      "episodes_count": 1,
+      "first_episode": "From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo",
+      "last_episode": "From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo"
+    },
+    {
+      "chunk_number": 146,
+      "filename": "knowledge_base_chunk_146.json",
+      "episode_range": {
+        "start": 146,
+        "end": 146
+      },
+      "episodes_count": 1,
+      "first_episode": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen",
+      "last_episode": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen"
+    },
+    {
+      "chunk_number": 147,
+      "filename": "knowledge_base_chunk_147.json",
+      "episode_range": {
+        "start": 147,
+        "end": 147
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)",
+      "last_episode": "Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)"
+    },
+    {
+      "chunk_number": 148,
+      "filename": "knowledge_base_chunk_148.json",
+      "episode_range": {
+        "start": 148,
+        "end": 148
+      },
+      "episodes_count": 1,
+      "first_episode": "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)",
+      "last_episode": "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)"
+    },
+    {
+      "chunk_number": 149,
+      "filename": "knowledge_base_chunk_149.json",
+      "episode_range": {
+        "start": 149,
+        "end": 149
+      },
+      "episodes_count": 1,
+      "first_episode": "Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour",
+      "last_episode": "Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour"
+    },
+    {
+      "chunk_number": 150,
+      "filename": "knowledge_base_chunk_150.json",
+      "episode_range": {
+        "start": 150,
+        "end": 150
+      },
+      "episodes_count": 1,
+      "first_episode": "Leading with empathy | Keith Yandell (DoorDash, Uber)",
+      "last_episode": "Leading with empathy | Keith Yandell (DoorDash, Uber)"
+    },
+    {
+      "chunk_number": 151,
+      "filename": "knowledge_base_chunk_151.json",
+      "episode_range": {
+        "start": 151,
+        "end": 151
+      },
+      "episodes_count": 1,
+      "first_episode": "How to unlock your product leadership skills | Ken Norton, Ex-Google",
+      "last_episode": "How to unlock your product leadership skills | Ken Norton, Ex-Google"
+    },
+    {
+      "chunk_number": 152,
+      "filename": "knowledge_base_chunk_152.json",
+      "episode_range": {
+        "start": 152,
+        "end": 152
+      },
+      "episodes_count": 1,
+      "first_episode": "Why not asking for what you want is holding you back | Kenneth Berger (exec coach, first PM @Slack)",
+      "last_episode": "Why not asking for what you want is holding you back | Kenneth Berger (exec coach, first PM @Slack)"
+    },
+    {
+      "chunk_number": 153,
+      "filename": "knowledge_base_chunk_153.json",
+      "episode_range": {
+        "start": 153,
+        "end": 153
+      },
+      "episodes_count": 1,
+      "first_episode": "Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)",
+      "last_episode": "Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)"
+    },
+    {
+      "chunk_number": 154,
+      "filename": "knowledge_base_chunk_154.json",
+      "episode_range": {
+        "start": 154,
+        "end": 154
+      },
+      "episodes_count": 1,
+      "first_episode": "OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil",
+      "last_episode": "OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil"
+    },
+    {
+      "chunk_number": 155,
+      "filename": "knowledge_base_chunk_155.json",
+      "episode_range": {
+        "start": 155,
+        "end": 155
+      },
+      "episodes_count": 1,
+      "first_episode": "Unorthodox PM tips: Automating user insights, unselling candidates, decision logs, more | Kevin Yien",
+      "last_episode": "Unorthodox PM tips: Automating user insights, unselling candidates, decision logs, more | Kevin Yien"
+    },
+    {
+      "chunk_number": 156,
+      "filename": "knowledge_base_chunk_156.json",
+      "episode_range": {
+        "start": 156,
+        "end": 156
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside Devin: The AI engineer that's set to write 50% of its company’s code this year | Scott Wu",
+      "last_episode": "Inside Devin: The AI engineer that's set to write 50% of its company’s code this year | Scott Wu"
+    },
+    {
+      "chunk_number": 157,
+      "filename": "knowledge_base_chunk_157.json",
+      "episode_range": {
+        "start": 157,
+        "end": 157
+      },
+      "episodes_count": 1,
+      "first_episode": "Using behavioral science to improve your product | Kristen Berman (Irrational Labs)",
+      "last_episode": "Using behavioral science to improve your product | Kristen Berman (Irrational Labs)"
+    },
+    {
+      "chunk_number": 158,
+      "filename": "knowledge_base_chunk_158.json",
+      "episode_range": {
+        "start": 158,
+        "end": 158
+      },
+      "episodes_count": 1,
+      "first_episode": "Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman",
+      "last_episode": "Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman"
+    },
+    {
+      "chunk_number": 159,
+      "filename": "knowledge_base_chunk_159.json",
+      "episode_range": {
+        "start": 159,
+        "end": 159
+      },
+      "episodes_count": 1,
+      "first_episode": "The future of AI in software development | Inbal Shani (CPO of GitHub)",
+      "last_episode": "The future of AI in software development | Inbal Shani (CPO of GitHub)"
+    },
+    {
+      "chunk_number": 160,
+      "filename": "knowledge_base_chunk_160.json",
+      "episode_range": {
+        "start": 160,
+        "end": 160
+      },
+      "episodes_count": 1,
+      "first_episode": "What sets great teams apart | Lane Shackleton (CPO of Coda)",
+      "last_episode": "What sets great teams apart | Lane Shackleton (CPO of Coda)"
+    },
+    {
+      "chunk_number": 161,
+      "filename": "knowledge_base_chunk_161.json",
+      "episode_range": {
+        "start": 161,
+        "end": 161
+      },
+      "episodes_count": 1,
+      "first_episode": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+      "last_episode": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)"
+    },
+    {
+      "chunk_number": 162,
+      "filename": "knowledge_base_chunk_162.json",
+      "episode_range": {
+        "start": 162,
+        "end": 162
+      },
+      "episodes_count": 1,
+      "first_episode": "Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura Schaffer (Amplitude)",
+      "last_episode": "Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura Schaffer (Amplitude)"
+    },
+    {
+      "chunk_number": 163,
+      "filename": "knowledge_base_chunk_163.json",
+      "episode_range": {
+        "start": 163,
+        "end": 163
+      },
+      "episodes_count": 1,
+      "first_episode": "Lessons from one of the world’s top executive recruiters | Lauren Ipsen (Daversa Partners, GC)",
+      "last_episode": "Lessons from one of the world’s top executive recruiters | Lauren Ipsen (Daversa Partners, GC)"
+    },
+    {
+      "chunk_number": 164,
+      "filename": "knowledge_base_chunk_164.json",
+      "episode_range": {
+        "start": 164,
+        "end": 164
+      },
+      "episodes_count": 1,
+      "first_episode": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+      "last_episode": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)"
+    },
+    {
+      "chunk_number": 165,
+      "filename": "knowledge_base_chunk_165.json",
+      "episode_range": {
+        "start": 165,
+        "end": 165
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside OpenAI | Logan Kilpatrick (head of developer relations)",
+      "last_episode": "Inside OpenAI | Logan Kilpatrick (head of developer relations)"
+    },
+    {
+      "chunk_number": 166,
+      "filename": "knowledge_base_chunk_166.json",
+      "episode_range": {
+        "start": 166,
+        "end": 166
+      },
+      "episodes_count": 1,
+      "first_episode": "Leveraging growth advisors, mastering SEO, and honing your craft | Luc Levesque (Shopify, Meta)",
+      "last_episode": "Leveraging growth advisors, mastering SEO, and honing your craft | Luc Levesque (Shopify, Meta)"
+    },
+    {
+      "chunk_number": 167,
+      "filename": "knowledge_base_chunk_167.json",
+      "episode_range": {
+        "start": 167,
+        "end": 167
+      },
+      "episodes_count": 1,
+      "first_episode": "Gain attention as an underdog with this framework | Lulu Cheng Meservey",
+      "last_episode": "Gain attention as an underdog with this framework | Lulu Cheng Meservey"
+    },
+    {
+      "chunk_number": 168,
+      "filename": "knowledge_base_chunk_168.json",
+      "episode_range": {
+        "start": 168,
+        "end": 168
+      },
+      "episodes_count": 1,
+      "first_episode": "Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam",
+      "last_episode": "Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam"
+    },
+    {
+      "chunk_number": 169,
+      "filename": "knowledge_base_chunk_169.json",
+      "episode_range": {
+        "start": 169,
+        "end": 169
+      },
+      "episodes_count": 1,
+      "first_episode": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)",
+      "last_episode": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)"
+    },
+    {
+      "chunk_number": 170,
+      "filename": "knowledge_base_chunk_170.json",
+      "episode_range": {
+        "start": 170,
+        "end": 170
+      },
+      "episodes_count": 1,
+      "first_episode": "Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta",
+      "last_episode": "Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta"
+    },
+    {
+      "chunk_number": 171,
+      "filename": "knowledge_base_chunk_171.json",
+      "episode_range": {
+        "start": 171,
+        "end": 171
+      },
+      "episodes_count": 1,
+      "first_episode": "Behind the founder: Marc Benioff",
+      "last_episode": "Behind the founder: Marc Benioff"
+    },
+    {
+      "chunk_number": 172,
+      "filename": "knowledge_base_chunk_172.json",
+      "episode_range": {
+        "start": 172,
+        "end": 172
+      },
+      "episodes_count": 1,
+      "first_episode": "AI and product management | Marily Nika (Meta, Google)",
+      "last_episode": "AI and product management | Marily Nika (Meta, Google)"
+    },
+    {
+      "chunk_number": 173,
+      "filename": "knowledge_base_chunk_173.json",
+      "episode_range": {
+        "start": 173,
+        "end": 173
+      },
+      "episodes_count": 1,
+      "first_episode": "Product management theater | Marty Cagan (Silicon Valley Product Group)",
+      "last_episode": "Product management theater | Marty Cagan (Silicon Valley Product Group)"
+    },
+    {
+      "chunk_number": 174,
+      "filename": "knowledge_base_chunk_174.json",
+      "episode_range": {
+        "start": 174,
+        "end": 174
+      },
+      "episodes_count": 1,
+      "first_episode": "How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)",
+      "last_episode": "How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)"
+    },
+    {
+      "chunk_number": 175,
+      "filename": "knowledge_base_chunk_175.json",
+      "episode_range": {
+        "start": 175,
+        "end": 175
+      },
+      "episodes_count": 1,
+      "first_episode": "The surprising truth about what closes deals: Insights from 2.5m sales conversations | Matt Dixon",
+      "last_episode": "The surprising truth about what closes deals: Insights from 2.5m sales conversations | Matt Dixon"
+    },
+    {
+      "chunk_number": 176,
+      "filename": "knowledge_base_chunk_176.json",
+      "episode_range": {
+        "start": 176,
+        "end": 176
+      },
+      "episodes_count": 1,
+      "first_episode": "The one question that saves product careers | Matt LeMay",
+      "last_episode": "The one question that saves product careers | Matt LeMay"
+    },
+    {
+      "chunk_number": 177,
+      "filename": "knowledge_base_chunk_177.json",
+      "episode_range": {
+        "start": 177,
+        "end": 177
+      },
+      "episodes_count": 1,
+      "first_episode": "The one question that saves product careers | Matt LeMay",
+      "last_episode": "The one question that saves product careers | Matt LeMay"
+    },
+    {
+      "chunk_number": 178,
+      "filename": "knowledge_base_chunk_178.json",
+      "episode_range": {
+        "start": 178,
+        "end": 178
+      },
+      "episodes_count": 1,
+      "first_episode": "Are your fears giving you terrible advice? | Matt Mochary",
+      "last_episode": "Are your fears giving you terrible advice? | Matt Mochary"
+    },
+    {
+      "chunk_number": 179,
+      "filename": "knowledge_base_chunk_179.json",
+      "episode_range": {
+        "start": 179,
+        "end": 179
+      },
+      "episodes_count": 1,
+      "first_episode": "The one question that saves product careers | Matt LeMay",
+      "last_episode": "The one question that saves product careers | Matt LeMay"
+    },
+    {
+      "chunk_number": 180,
+      "filename": "knowledge_base_chunk_180.json",
+      "episode_range": {
+        "start": 180,
+        "end": 180
+      },
+      "episodes_count": 1,
+      "first_episode": "How to tell better stories | Matthew Dicks (Storyworthy)",
+      "last_episode": "How to tell better stories | Matthew Dicks (Storyworthy)"
+    },
+    {
+      "chunk_number": 181,
+      "filename": "knowledge_base_chunk_181.json",
+      "episode_range": {
+        "start": 181,
+        "end": 181
+      },
+      "episodes_count": 1,
+      "first_episode": "Building Anchor, selling to Spotify, and lessons learned | Maya Prohovnik (Head of Podcast Product)",
+      "last_episode": "Building Anchor, selling to Spotify, and lessons learned | Maya Prohovnik (Head of Podcast Product)"
+    },
+    {
+      "chunk_number": 182,
+      "filename": "knowledge_base_chunk_182.json",
+      "episode_range": {
+        "start": 182,
+        "end": 182
+      },
+      "episodes_count": 1,
+      "first_episode": "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)",
+      "last_episode": "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)"
+    },
+    {
+      "chunk_number": 183,
+      "filename": "knowledge_base_chunk_183.json",
+      "episode_range": {
+        "start": 183,
+        "end": 183
+      },
+      "episodes_count": 1,
+      "first_episode": "Lessons from Atlassian | Megan Cook (Head of Product, Jira)",
+      "last_episode": "Lessons from Atlassian | Megan Cook (Head of Product, Jira)"
+    },
+    {
+      "chunk_number": 184,
+      "filename": "knowledge_base_chunk_184.json",
+      "episode_range": {
+        "start": 184,
+        "end": 184
+      },
+      "episodes_count": 1,
+      "first_episode": "She turned 100+ rejections into a $42B company | Melanie Perkins",
+      "last_episode": "She turned 100+ rejections into a $42B company | Melanie Perkins"
+    },
+    {
+      "chunk_number": 185,
+      "filename": "knowledge_base_chunk_185.json",
+      "episode_range": {
+        "start": 185,
+        "end": 185
+      },
+      "episodes_count": 1,
+      "first_episode": "Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)",
+      "last_episode": "Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)"
+    },
+    {
+      "chunk_number": 186,
+      "filename": "knowledge_base_chunk_186.json",
+      "episode_range": {
+        "start": 186,
+        "end": 186
+      },
+      "episodes_count": 1,
+      "first_episode": "Everything you’ve ever wanted to know about SAFe and the product owner role | Melissa Perri",
+      "last_episode": "Everything you’ve ever wanted to know about SAFe and the product owner role | Melissa Perri"
+    },
+    {
+      "chunk_number": 187,
+      "filename": "knowledge_base_chunk_187.json",
+      "episode_range": {
+        "start": 187,
+        "end": 187
+      },
+      "episodes_count": 1,
+      "first_episode": "The ultimate guide to product operations | Melissa Perri and Denise Tilles",
+      "last_episode": "The ultimate guide to product operations | Melissa Perri and Denise Tilles"
+    },
+    {
+      "chunk_number": 188,
+      "filename": "knowledge_base_chunk_188.json",
+      "episode_range": {
+        "start": 188,
+        "end": 188
+      },
+      "episodes_count": 1,
+      "first_episode": "Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)",
+      "last_episode": "Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)"
+    },
+    {
+      "chunk_number": 189,
+      "filename": "knowledge_base_chunk_189.json",
+      "episode_range": {
+        "start": 189,
+        "end": 189
+      },
+      "episodes_count": 1,
+      "first_episode": "An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)",
+      "last_episode": "An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)"
+    },
+    {
+      "chunk_number": 190,
+      "filename": "knowledge_base_chunk_190.json",
+      "episode_range": {
+        "start": 190,
+        "end": 190
+      },
+      "episodes_count": 1,
+      "first_episode": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)",
+      "last_episode": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)"
+    },
+    {
+      "chunk_number": 191,
+      "filename": "knowledge_base_chunk_191.json",
+      "episode_range": {
+        "start": 191,
+        "end": 191
+      },
+      "episodes_count": 1,
+      "first_episode": "The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell",
+      "last_episode": "The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell"
+    },
+    {
+      "chunk_number": 192,
+      "filename": "knowledge_base_chunk_192.json",
+      "episode_range": {
+        "start": 192,
+        "end": 192
+      },
+      "episodes_count": 1,
+      "first_episode": "Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)",
+      "last_episode": "Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)"
+    },
+    {
+      "chunk_number": 193,
+      "filename": "knowledge_base_chunk_193.json",
+      "episode_range": {
+        "start": 193,
+        "end": 193
+      },
+      "episodes_count": 1,
+      "first_episode": "Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)",
+      "last_episode": "Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)"
+    },
+    {
+      "chunk_number": 194,
+      "filename": "knowledge_base_chunk_194.json",
+      "episode_range": {
+        "start": 194,
+        "end": 194
+      },
+      "episodes_count": 1,
+      "first_episode": "“I like being scared”: Molly Graham’s frameworks for rapid career growth | Molly Graham",
+      "last_episode": "“I like being scared”: Molly Graham’s frameworks for rapid career growth | Molly Graham"
+    },
+    {
+      "chunk_number": 195,
+      "filename": "knowledge_base_chunk_195.json",
+      "episode_range": {
+        "start": 195,
+        "end": 195
+      },
+      "episodes_count": 1,
+      "first_episode": "How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)",
+      "last_episode": "How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)"
+    },
+    {
+      "chunk_number": 196,
+      "filename": "knowledge_base_chunk_196.json",
+      "episode_range": {
+        "start": 196,
+        "end": 196
+      },
+      "episodes_count": 1,
+      "first_episode": "Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)",
+      "last_episode": "Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)"
+    },
+    {
+      "chunk_number": 197,
+      "filename": "knowledge_base_chunk_197.json",
+      "episode_range": {
+        "start": 197,
+        "end": 197
+      },
+      "episodes_count": 1,
+      "first_episode": "Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit",
+      "last_episode": "Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit"
+    },
+    {
+      "chunk_number": 198,
+      "filename": "knowledge_base_chunk_198.json",
+      "episode_range": {
+        "start": 198,
+        "end": 198
+      },
+      "episodes_count": 1,
+      "first_episode": "How to price your product | Naomi Ionita (Menlo Ventures)",
+      "last_episode": "How to price your product | Naomi Ionita (Menlo Ventures)"
+    },
+    {
+      "chunk_number": 199,
+      "filename": "knowledge_base_chunk_199.json",
+      "episode_range": {
+        "start": 199,
+        "end": 199
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside ChatGPT: The fastest growing product in history  | Nick Turley (OpenAI)",
+      "last_episode": "Inside ChatGPT: The fastest growing product in history  | Nick Turley (OpenAI)"
+    },
+    {
+      "chunk_number": 200,
+      "filename": "knowledge_base_chunk_200.json",
+      "episode_range": {
+        "start": 200,
+        "end": 200
+      },
+      "episodes_count": 1,
+      "first_episode": "Untitled",
+      "last_episode": "Untitled"
+    },
+    {
+      "chunk_number": 201,
+      "filename": "knowledge_base_chunk_201.json",
+      "episode_range": {
+        "start": 201,
+        "end": 201
+      },
+      "episodes_count": 1,
+      "first_episode": "How to measure AI developer productivity in 2025 | Nicole Forsgren",
+      "last_episode": "How to measure AI developer productivity in 2025 | Nicole Forsgren"
+    },
+    {
+      "chunk_number": 202,
+      "filename": "knowledge_base_chunk_202.json",
+      "episode_range": {
+        "start": 202,
+        "end": 202
+      },
+      "episodes_count": 1,
+      "first_episode": "Building a long and meaningful career | Nikhyl Singhal (Meta, Google)",
+      "last_episode": "Building a long and meaningful career | Nikhyl Singhal (Meta, Google)"
+    },
+    {
+      "chunk_number": 203,
+      "filename": "knowledge_base_chunk_203.json",
+      "episode_range": {
+        "start": 203,
+        "end": 203
+      },
+      "episodes_count": 1,
+      "first_episode": "Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller",
+      "last_episode": "Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller"
+    },
+    {
+      "chunk_number": 204,
+      "filename": "knowledge_base_chunk_204.json",
+      "episode_range": {
+        "start": 204,
+        "end": 204
+      },
+      "episodes_count": 1,
+      "first_episode": "Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller",
+      "last_episode": "Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller"
+    },
+    {
+      "chunk_number": 205,
+      "filename": "knowledge_base_chunk_205.json",
+      "episode_range": {
+        "start": 205,
+        "end": 205
+      },
+      "episodes_count": 1,
+      "first_episode": "How to drive word of mouth | Nilan Peiris (CPO of Wise)",
+      "last_episode": "How to drive word of mouth | Nilan Peiris (CPO of Wise)"
+    },
+    {
+      "chunk_number": 206,
+      "filename": "knowledge_base_chunk_206.json",
+      "episode_range": {
+        "start": 206,
+        "end": 206
+      },
+      "episodes_count": 1,
+      "first_episode": "Strategies for becoming less distractible and improving focus | Nir Eyal",
+      "last_episode": "Strategies for becoming less distractible and improving focus | Nir Eyal"
+    },
+    {
+      "chunk_number": 207,
+      "filename": "knowledge_base_chunk_207.json",
+      "episode_range": {
+        "start": 207,
+        "end": 207
+      },
+      "episodes_count": 1,
+      "first_episode": "The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss (Slack, Google)",
+      "last_episode": "The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss (Slack, Google)"
+    },
+    {
+      "chunk_number": 208,
+      "filename": "knowledge_base_chunk_208.json",
+      "episode_range": {
+        "start": 208,
+        "end": 208
+      },
+      "episodes_count": 1,
+      "first_episode": "The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)",
+      "last_episode": "The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)"
+    },
+    {
+      "chunk_number": 209,
+      "filename": "knowledge_base_chunk_209.json",
+      "episode_range": {
+        "start": 209,
+        "end": 209
+      },
+      "episodes_count": 1,
+      "first_episode": "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)",
+      "last_episode": "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)"
+    },
+    {
+      "chunk_number": 210,
+      "filename": "knowledge_base_chunk_210.json",
+      "episode_range": {
+        "start": 210,
+        "end": 210
+      },
+      "episodes_count": 1,
+      "first_episode": "How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)",
+      "last_episode": "How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)"
+    },
+    {
+      "chunk_number": 211,
+      "filename": "knowledge_base_chunk_211.json",
+      "episode_range": {
+        "start": 211,
+        "end": 211
+      },
+      "episodes_count": 1,
+      "first_episode": "10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)",
+      "last_episode": "10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)"
+    },
+    {
+      "chunk_number": 212,
+      "filename": "knowledge_base_chunk_212.json",
+      "episode_range": {
+        "start": 212,
+        "end": 212
+      },
+      "episodes_count": 1,
+      "first_episode": "What AI means for your product strategy | Paul Adams (CPO of Intercom)",
+      "last_episode": "What AI means for your product strategy | Paul Adams (CPO of Intercom)"
+    },
+    {
+      "chunk_number": 213,
+      "filename": "knowledge_base_chunk_213.json",
+      "episode_range": {
+        "start": 213,
+        "end": 213
+      },
+      "episodes_count": 1,
+      "first_episode": "Redefining success, money, and belonging | Paul Millerd (The Pathless Path)",
+      "last_episode": "Redefining success, money, and belonging | Paul Millerd (The Pathless Path)"
+    },
+    {
+      "chunk_number": 214,
+      "filename": "knowledge_base_chunk_214.json",
+      "episode_range": {
+        "start": 214,
+        "end": 214
+      },
+      "episodes_count": 1,
+      "first_episode": "Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)",
+      "last_episode": "Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)"
+    },
+    {
+      "chunk_number": 215,
+      "filename": "knowledge_base_chunk_215.json",
+      "episode_range": {
+        "start": 215,
+        "end": 215
+      },
+      "episodes_count": 1,
+      "first_episode": "How to be the best coach to product people | Petra Wille (Strong Product People)",
+      "last_episode": "How to be the best coach to product people | Petra Wille (Strong Product People)"
+    },
+    {
+      "chunk_number": 216,
+      "filename": "knowledge_base_chunk_216.json",
+      "episode_range": {
+        "start": 216,
+        "end": 216
+      },
+      "episodes_count": 1,
+      "first_episode": "Land your dream job in today’s market: negotiation tactics, job search councils, more | Phyl Terry",
+      "last_episode": "Land your dream job in today’s market: negotiation tactics, job search councils, more | Phyl Terry"
+    },
+    {
+      "chunk_number": 217,
+      "filename": "knowledge_base_chunk_217.json",
+      "episode_range": {
+        "start": 217,
+        "end": 217
+      },
+      "episodes_count": 1,
+      "first_episode": "Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)",
+      "last_episode": "Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)"
+    },
+    {
+      "chunk_number": 218,
+      "filename": "knowledge_base_chunk_218.json",
+      "episode_range": {
+        "start": 218,
+        "end": 218
+      },
+      "episodes_count": 1,
+      "first_episode": "Untitled",
+      "last_episode": "Untitled"
+    },
+    {
+      "chunk_number": 219,
+      "filename": "knowledge_base_chunk_219.json",
+      "episode_range": {
+        "start": 219,
+        "end": 219
+      },
+      "episodes_count": 1,
+      "first_episode": "Superhuman's secret to success | Rahul Vohra (CEO and founder)",
+      "last_episode": "Superhuman's secret to success | Rahul Vohra (CEO and founder)"
+    },
+    {
+      "chunk_number": 220,
+      "filename": "knowledge_base_chunk_220.json",
+      "episode_range": {
+        "start": 220,
+        "end": 220
+      },
+      "episodes_count": 1,
+      "first_episode": "Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor)",
+      "last_episode": "Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor)"
+    },
+    {
+      "chunk_number": 221,
+      "filename": "knowledge_base_chunk_221.json",
+      "episode_range": {
+        "start": 221,
+        "end": 221
+      },
+      "episodes_count": 1,
+      "first_episode": "How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)",
+      "last_episode": "How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)"
+    },
+    {
+      "chunk_number": 222,
+      "filename": "knowledge_base_chunk_222.json",
+      "episode_range": {
+        "start": 222,
+        "end": 222
+      },
+      "episodes_count": 1,
+      "first_episode": "Product management theater | Marty Cagan (Silicon Valley Product Group)",
+      "last_episode": "Product management theater | Marty Cagan (Silicon Valley Product Group)"
+    },
+    {
+      "chunk_number": 223,
+      "filename": "knowledge_base_chunk_223.json",
+      "episode_range": {
+        "start": 223,
+        "end": 223
+      },
+      "episodes_count": 1,
+      "first_episode": "Good Strategy, Bad Strategy | Richard Rumelt",
+      "last_episode": "Good Strategy, Bad Strategy | Richard Rumelt"
+    },
+    {
+      "chunk_number": 224,
+      "filename": "knowledge_base_chunk_224.json",
+      "episode_range": {
+        "start": 224,
+        "end": 224
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside Google's AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search | Robby Stein",
+      "last_episode": "Inside Google's AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search | Robby Stein"
+    },
+    {
+      "chunk_number": 225,
+      "filename": "knowledge_base_chunk_225.json",
+      "episode_range": {
+        "start": 225,
+        "end": 225
+      },
+      "episodes_count": 1,
+      "first_episode": "5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)",
+      "last_episode": "5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)"
+    },
+    {
+      "chunk_number": 226,
+      "filename": "knowledge_base_chunk_226.json",
+      "episode_range": {
+        "start": 226,
+        "end": 226
+      },
+      "episodes_count": 1,
+      "first_episode": "The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)",
+      "last_episode": "The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)"
+    },
+    {
+      "chunk_number": 227,
+      "filename": "knowledge_base_chunk_227.json",
+      "episode_range": {
+        "start": 227,
+        "end": 227
+      },
+      "episodes_count": 1,
+      "first_episode": "A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up\\\")",
+      "last_episode": "A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up\\\")"
+    },
+    {
+      "chunk_number": 228,
+      "filename": "knowledge_base_chunk_228.json",
+      "episode_range": {
+        "start": 228,
+        "end": 228
+      },
+      "episodes_count": 1,
+      "first_episode": "The role of AI in new product development | Ryan J. Salva (VP of Product at GitHub)",
+      "last_episode": "The role of AI in new product development | Ryan J. Salva (VP of Product at GitHub)"
+    },
+    {
+      "chunk_number": 229,
+      "filename": "knowledge_base_chunk_229.json",
+      "episode_range": {
+        "start": 229,
+        "end": 229
+      },
+      "episodes_count": 1,
+      "first_episode": "A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up\\\")",
+      "last_episode": "A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up\\\")"
+    },
+    {
+      "chunk_number": 230,
+      "filename": "knowledge_base_chunk_230.json",
+      "episode_range": {
+        "start": 230,
+        "end": 230
+      },
+      "episodes_count": 1,
+      "first_episode": "Building Substack | Sachin Monga (Substack, Facebook)",
+      "last_episode": "Building Substack | Sachin Monga (Substack, Facebook)"
+    },
+    {
+      "chunk_number": 231,
+      "filename": "knowledge_base_chunk_231.json",
+      "episode_range": {
+        "start": 231,
+        "end": 231
+      },
+      "episodes_count": 1,
+      "first_episode": "How to hit revenue targets in a recession | Sahil Mansuri (Bravado)",
+      "last_episode": "How to hit revenue targets in a recession | Sahil Mansuri (Bravado)"
+    },
+    {
+      "chunk_number": 232,
+      "filename": "knowledge_base_chunk_232.json",
+      "episode_range": {
+        "start": 232,
+        "end": 232
+      },
+      "episodes_count": 1,
+      "first_episode": "How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)",
+      "last_episode": "How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)"
+    },
+    {
+      "chunk_number": 233,
+      "filename": "knowledge_base_chunk_233.json",
+      "episode_range": {
+        "start": 233,
+        "end": 233
+      },
+      "episodes_count": 1,
+      "first_episode": "Why Uber’s CPO delivers food on weekends | Sachin Kansal",
+      "last_episode": "Why Uber’s CPO delivers food on weekends | Sachin Kansal"
+    },
+    {
+      "chunk_number": 234,
+      "filename": "knowledge_base_chunk_234.json",
+      "episode_range": {
+        "start": 234,
+        "end": 234
+      },
+      "episodes_count": 1,
+      "first_episode": "AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff",
+      "last_episode": "AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff"
+    },
+    {
+      "chunk_number": 235,
+      "filename": "knowledge_base_chunk_235.json",
+      "episode_range": {
+        "start": 235,
+        "end": 235
+      },
+      "episodes_count": 1,
+      "first_episode": "The hierarchy of engagement | Sarah Tavel (Benchmark, Greylock, Pinterest)",
+      "last_episode": "The hierarchy of engagement | Sarah Tavel (Benchmark, Greylock, Pinterest)"
+    },
+    {
+      "chunk_number": 236,
+      "filename": "knowledge_base_chunk_236.json",
+      "episode_range": {
+        "start": 236,
+        "end": 236
+      },
+      "episodes_count": 1,
+      "first_episode": "Lessons on product sense, AI, the first mile experience, and the messy middle | Scott Belsky (Adobe)",
+      "last_episode": "Lessons on product sense, AI, the first mile experience, and the messy middle | Scott Belsky (Adobe)"
+    },
+    {
+      "chunk_number": 237,
+      "filename": "knowledge_base_chunk_237.json",
+      "episode_range": {
+        "start": 237,
+        "end": 237
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside Devin: The AI engineer that's set to write 50% of its company’s code this year | Scott Wu",
+      "last_episode": "Inside Devin: The AI engineer that's set to write 50% of its company’s code this year | Scott Wu"
+    },
+    {
+      "chunk_number": 238,
+      "filename": "knowledge_base_chunk_238.json",
+      "episode_range": {
+        "start": 238,
+        "end": 238
+      },
+      "episodes_count": 1,
+      "first_episode": "The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)",
+      "last_episode": "The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)"
+    },
+    {
+      "chunk_number": 239,
+      "filename": "knowledge_base_chunk_239.json",
+      "episode_range": {
+        "start": 239,
+        "end": 239
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside Gong: How teams work with design partners, their pod structure, autonomy, trust, and more",
+      "last_episode": "Inside Gong: How teams work with design partners, their pod structure, autonomy, trust, and more"
+    },
+    {
+      "chunk_number": 240,
+      "filename": "knowledge_base_chunk_240.json",
+      "episode_range": {
+        "start": 240,
+        "end": 240
+      },
+      "episodes_count": 1,
+      "first_episode": "Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)",
+      "last_episode": "Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)"
+    },
+    {
+      "chunk_number": 241,
+      "filename": "knowledge_base_chunk_241.json",
+      "episode_range": {
+        "start": 241,
+        "end": 241
+      },
+      "episodes_count": 1,
+      "first_episode": "The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft",
+      "last_episode": "The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft"
+    },
+    {
+      "chunk_number": 242,
+      "filename": "knowledge_base_chunk_242.json",
+      "episode_range": {
+        "start": 242,
+        "end": 242
+      },
+      "episodes_count": 1,
+      "first_episode": "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)",
+      "last_episode": "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)"
+    },
+    {
+      "chunk_number": 243,
+      "filename": "knowledge_base_chunk_243.json",
+      "episode_range": {
+        "start": 243,
+        "end": 243
+      },
+      "episodes_count": 1,
+      "first_episode": "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)",
+      "last_episode": "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)"
+    },
+    {
+      "chunk_number": 244,
+      "filename": "knowledge_base_chunk_244.json",
+      "episode_range": {
+        "start": 244,
+        "end": 244
+      },
+      "episodes_count": 1,
+      "first_episode": "Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)",
+      "last_episode": "Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)"
+    },
+    {
+      "chunk_number": 245,
+      "filename": "knowledge_base_chunk_245.json",
+      "episode_range": {
+        "start": 245,
+        "end": 245
+      },
+      "episodes_count": 1,
+      "first_episode": "Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)",
+      "last_episode": "Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)"
+    },
+    {
+      "chunk_number": 246,
+      "filename": "knowledge_base_chunk_246.json",
+      "episode_range": {
+        "start": 246,
+        "end": 246
+      },
+      "episodes_count": 1,
+      "first_episode": "Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi",
+      "last_episode": "Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi"
+    },
+    {
+      "chunk_number": 247,
+      "filename": "knowledge_base_chunk_247.json",
+      "episode_range": {
+        "start": 247,
+        "end": 247
+      },
+      "episodes_count": 1,
+      "first_episode": "Mental models for building products people love ft. Stewart Butterfield",
+      "last_episode": "Mental models for building products people love ft. Stewart Butterfield"
+    },
+    {
+      "chunk_number": 248,
+      "filename": "knowledge_base_chunk_248.json",
+      "episode_range": {
+        "start": 248,
+        "end": 248
+      },
+      "episodes_count": 1,
+      "first_episode": "Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua",
+      "last_episode": "Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua"
+    },
+    {
+      "chunk_number": 249,
+      "filename": "knowledge_base_chunk_249.json",
+      "episode_range": {
+        "start": 249,
+        "end": 249
+      },
+      "episodes_count": 1,
+      "first_episode": "Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)",
+      "last_episode": "Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)"
+    },
+    {
+      "chunk_number": 250,
+      "filename": "knowledge_base_chunk_250.json",
+      "episode_range": {
+        "start": 250,
+        "end": 250
+      },
+      "episodes_count": 1,
+      "first_episode": "Untitled",
+      "last_episode": "Untitled"
+    },
+    {
+      "chunk_number": 251,
+      "filename": "knowledge_base_chunk_251.json",
+      "episode_range": {
+        "start": 251,
+        "end": 251
+      },
+      "episodes_count": 1,
+      "first_episode": "Build better products with continuous product discovery | Teresa Torres",
+      "last_episode": "Build better products with continuous product discovery | Teresa Torres"
+    },
+    {
+      "chunk_number": 252,
+      "filename": "knowledge_base_chunk_252.json",
+      "episode_range": {
+        "start": 252,
+        "end": 252
+      },
+      "episodes_count": 1,
+      "first_episode": "Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of Product)",
+      "last_episode": "Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of Product)"
+    },
+    {
+      "chunk_number": 253,
+      "filename": "knowledge_base_chunk_253.json",
+      "episode_range": {
+        "start": 253,
+        "end": 253
+      },
+      "episodes_count": 1,
+      "first_episode": "The ultimate guide to paid growth | Timothy Davis (Shopify)",
+      "last_episode": "The ultimate guide to paid growth | Timothy Davis (Shopify)"
+    },
+    {
+      "chunk_number": 254,
+      "filename": "knowledge_base_chunk_254.json",
+      "episode_range": {
+        "start": 254,
+        "end": 254
+      },
+      "episodes_count": 1,
+      "first_episode": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)",
+      "last_episode": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)"
+    },
+    {
+      "chunk_number": 255,
+      "filename": "knowledge_base_chunk_255.json",
+      "episode_range": {
+        "start": 255,
+        "end": 255
+      },
+      "episodes_count": 1,
+      "first_episode": "A framework for finding product-market fit | Todd Jackson (First Round Capital)",
+      "last_episode": "A framework for finding product-market fit | Todd Jackson (First Round Capital)"
+    },
+    {
+      "chunk_number": 256,
+      "filename": "knowledge_base_chunk_256.json",
+      "episode_range": {
+        "start": 256,
+        "end": 256
+      },
+      "episodes_count": 1,
+      "first_episode": "Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)",
+      "last_episode": "Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)"
+    },
+    {
+      "chunk_number": 257,
+      "filename": "knowledge_base_chunk_257.json",
+      "episode_range": {
+        "start": 257,
+        "end": 257
+      },
+      "episodes_count": 1,
+      "first_episode": "Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)",
+      "last_episode": "Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)"
+    },
+    {
+      "chunk_number": 258,
+      "filename": "knowledge_base_chunk_258.json",
+      "episode_range": {
+        "start": 258,
+        "end": 258
+      },
+      "episodes_count": 1,
+      "first_episode": "Why most public speaking advice is wrong—and how to finally overcome anxiety | Tristan de Montebello",
+      "last_episode": "Why most public speaking advice is wrong—and how to finally overcome anxiety | Tristan de Montebello"
+    },
+    {
+      "chunk_number": 259,
+      "filename": "knowledge_base_chunk_259.json",
+      "episode_range": {
+        "start": 259,
+        "end": 259
+      },
+      "episodes_count": 1,
+      "first_episode": "An inside look at how CNN builds product | Upasna Gautam",
+      "last_episode": "An inside look at how CNN builds product | Upasna Gautam"
+    },
+    {
+      "chunk_number": 260,
+      "filename": "knowledge_base_chunk_260.json",
+      "episode_range": {
+        "start": 260,
+        "end": 260
+      },
+      "episodes_count": 1,
+      "first_episode": "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)",
+      "last_episode": "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)"
+    },
+    {
+      "chunk_number": 261,
+      "filename": "knowledge_base_chunk_261.json",
+      "episode_range": {
+        "start": 261,
+        "end": 261
+      },
+      "episodes_count": 1,
+      "first_episode": "An inside look at how Miro builds product | Varun Parmar (CPO of Miro)",
+      "last_episode": "An inside look at how Miro builds product | Varun Parmar (CPO of Miro)"
+    },
+    {
+      "chunk_number": 262,
+      "filename": "knowledge_base_chunk_262.json",
+      "episode_range": {
+        "start": 262,
+        "end": 262
+      },
+      "episodes_count": 1,
+      "first_episode": "An inside look at how Miro builds product | Varun Parmar (CPO of Miro)",
+      "last_episode": "An inside look at how Miro builds product | Varun Parmar (CPO of Miro)"
+    },
+    {
+      "chunk_number": 263,
+      "filename": "knowledge_base_chunk_263.json",
+      "episode_range": {
+        "start": 263,
+        "end": 263
+      },
+      "episodes_count": 1,
+      "first_episode": "An inside look at Mixpanel’s product journey | Vijay Iyengar",
+      "last_episode": "An inside look at Mixpanel’s product journey | Vijay Iyengar"
+    },
+    {
+      "chunk_number": 264,
+      "filename": "knowledge_base_chunk_264.json",
+      "episode_range": {
+        "start": 264,
+        "end": 264
+      },
+      "episodes_count": 1,
+      "first_episode": "A framework for PM skill development | Vikrama Dhiman (Gojek)",
+      "last_episode": "A framework for PM skill development | Vikrama Dhiman (Gojek)"
+    },
+    {
+      "chunk_number": 265,
+      "filename": "knowledge_base_chunk_265.json",
+      "episode_range": {
+        "start": 265,
+        "end": 265
+      },
+      "episodes_count": 1,
+      "first_episode": "Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)",
+      "last_episode": "Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)"
+    },
+    {
+      "chunk_number": 266,
+      "filename": "knowledge_base_chunk_266.json",
+      "episode_range": {
+        "start": 266,
+        "end": 266
+      },
+      "episodes_count": 1,
+      "first_episode": "The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)",
+      "last_episode": "The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)"
+    },
+    {
+      "chunk_number": 267,
+      "filename": "knowledge_base_chunk_267.json",
+      "episode_range": {
+        "start": 267,
+        "end": 267
+      },
+      "episodes_count": 1,
+      "first_episode": "An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)",
+      "last_episode": "An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)"
+    },
+    {
+      "chunk_number": 268,
+      "filename": "knowledge_base_chunk_268.json",
+      "episode_range": {
+        "start": 268,
+        "end": 268
+      },
+      "episodes_count": 1,
+      "first_episode": "How to grow a subscription business | Yuriy Timen (Grammarly, Canva, Airtable)",
+      "last_episode": "How to grow a subscription business | Yuriy Timen (Grammarly, Canva, Airtable)"
+    },
+    {
+      "chunk_number": 269,
+      "filename": "knowledge_base_chunk_269.json",
+      "episode_range": {
+        "start": 269,
+        "end": 269
+      },
+      "episodes_count": 1,
+      "first_episode": "Lessons from Airtable’s unconventional growth strategy | Zoelle Egner",
+      "last_episode": "Lessons from Airtable’s unconventional growth strategy | Zoelle Egner"
+    }
+  ]
+}

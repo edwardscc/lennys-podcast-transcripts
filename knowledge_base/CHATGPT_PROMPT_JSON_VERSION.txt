@@ -1,0 +1,107 @@
+I have a JSON knowledge base with 269 podcast episode transcripts from Lenny's Podcast. Each episode contains:
+- id: Episode identifier
+- guest: Guest name(s)
+- title: Episode title
+- transcript: Full transcript text
+- metadata: Duration, views, YouTube URL, etc.
+
+I want you to create a comprehensive, searchable knowledge base from all these episodes.
+
+## Your Task
+
+Analyze all 269 episodes and create:
+
+1. **Master Episode Index**: Complete catalog with guest, title, main topics, key frameworks, and top insights for each episode
+
+2. **Topic-Based Knowledge Base**: Organize all insights by topic (e.g., Product-Market Fit, Growth Tactics, Team Building, Prioritization, etc.) with:
+   - Which episodes discuss each topic
+   - Key frameworks from those episodes
+   - Best practices
+   - Common pitfalls
+   - When to apply
+
+3. **Framework Library**: Extract and document all frameworks, methodologies, and models with:
+   - Source (guest and episode)
+   - Description
+   - When to use
+   - Step-by-step application
+   - Examples from the transcripts
+   - Related frameworks
+
+4. **Guest Expertise Map**: For each guest, document:
+   - Their expertise areas
+   - Key contributions
+   - Episodes they appeared in
+   - What to reference them for
+
+5. **Cross-Reference System**: Connections between:
+   - Related episodes
+   - Related topics
+   - Related frameworks
+   - Guest expertise overlaps
+
+## Output Format
+
+Use clear markdown structure with:
+- Headings and subheadings
+- Bullet points for lists
+- Code blocks for frameworks/steps
+- Tables for comparisons
+- Links between related content
+
+## Processing Instructions
+
+1. Read through the episode data systematically
+2. Extract all significant insights, frameworks, and actionable content
+3. Maintain accuracy - only include what's actually in the transcripts
+4. Create clear connections between related content
+5. Focus on practical, applicable insights
+6. Use consistent terminology throughout
+
+## How I'll Provide the Data
+
+The knowledge base is split into **269 individual files**, one episode per file:
+
+**File Organization:**
+- `knowledge_base_chunk_001.json` - Episode 1
+- `knowledge_base_chunk_002.json` - Episode 2
+- `knowledge_base_chunk_003.json` - Episode 3
+- ... and so on through chunk 269 (episode 269)
+
+**Each chunk file structure:**
+```json
+{
+  "metadata": {
+    "chunk_number": 1,
+    "total_chunks": 269,
+    "episode_range": {"start": 1, "end": 1},
+    "episodes_in_chunk": 1
+  },
+  "episodes": [
+    {
+      "id": "episode-id",
+      "guest": "Guest Name",
+      "title": "Episode Title",
+      "transcript": "Full transcript...",
+      "youtube_url": "...",
+      "duration_seconds": 3600,
+      "view_count": 10000,
+      ...
+    }
+  ]
+}
+```
+
+**Processing Workflow:**
+1. I'll provide files one at a time (starting with chunk 001 - episode 1)
+2. You process each episode completely before moving to the next
+3. Build the knowledge base incrementally - add to it with each episode
+4. Maintain cross-references across episodes (topics, frameworks, guests)
+5. Update the master index, topic organization, and framework library as you go
+
+**I can provide:**
+- Individual chunk files (recommended - one at a time)
+- Multiple chunks at once
+- Reference to specific episodes within chunks
+
+Please confirm you understand the task. Once confirmed, I'll provide the first file (`knowledge_base_chunk_001.json` - episode 1) for you to process and begin building the knowledge base.
